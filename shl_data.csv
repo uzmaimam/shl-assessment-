@@ -1,0 +1,4 @@
+Name,URL,Remote Support,Adaptive Support,Duration,Test Type,Description
+Cognitive Ability Test,https://shl.com/test1,Yes,Yes,40 min,Cognitive,"A test to assess logical reasoning, numerical and verbal aptitude."
+Software Developer Test,https://shl.com/test2,Yes,No,45 min,Technical,"Assesses coding skills in Java, Python, and software problem-solving."
+Collaboration Skills Test,https://shl.com/test3,Yes,Yes,30 min,Behavioral,"Evaluates teamwork, communication, and interpersonal effectiveness."
