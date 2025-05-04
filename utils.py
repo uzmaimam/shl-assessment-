@@ -2,7 +2,6 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
-# Load model once
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def load_data(path='shl_data.csv'):
